@@ -1,8 +1,9 @@
 // App.js
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
 import Truck from './Truck';
+import Bald from './Bald';
 
 function Home() {
   return (
@@ -68,11 +69,12 @@ function Home() {
               Leave a Review
             </a>
           </li>
-
           <li className="card">
             <h4>Hair Loss Detection</h4>
             <p>AI-powered classification of hair loss levels from face or head images for medical or cosmetic use.</p>
-            <button className="review-button">Leave a Review</button>
+            <Link to="/bald">
+              <button className="review-button">Leave a Review</button>
+            </Link>
           </li>
         </ul>
       </section>
@@ -97,6 +99,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/truck" element={<Truck />} />
+        <Route path="/bald" element={<Bald />} />
       </Routes>
     </Router>
   );
