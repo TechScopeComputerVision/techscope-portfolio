@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/techscope-portfolio/static/css/main.de702f7f.css",
-    "main.js": "/techscope-portfolio/static/js/main.1dd436c6.js",
+    "main.js": "/techscope-portfolio/static/js/main.2974f549.js",
     "index.html": "/techscope-portfolio/index.html",
     "main.de702f7f.css.map": "/techscope-portfolio/static/css/main.de702f7f.css.map",
-    "main.1dd436c6.js.map": "/techscope-portfolio/static/js/main.1dd436c6.js.map"
+    "main.2974f549.js.map": "/techscope-portfolio/static/js/main.2974f549.js.map"
   },
   "entrypoints": [
     "static/css/main.de702f7f.css",
-    "static/js/main.1dd436c6.js"
+    "static/js/main.2974f549.js"
   ]
 }
