@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/techvision-portfolio/static/css/main.de702f7f.css",
-    "main.js": "/techvision-portfolio/static/js/main.f5d88582.js",
+    "main.js": "/techvision-portfolio/static/js/main.efa51d62.js",
     "index.html": "/techvision-portfolio/index.html",
     "main.de702f7f.css.map": "/techvision-portfolio/static/css/main.de702f7f.css.map",
-    "main.f5d88582.js.map": "/techvision-portfolio/static/js/main.f5d88582.js.map"
+    "main.efa51d62.js.map": "/techvision-portfolio/static/js/main.efa51d62.js.map"
   },
   "entrypoints": [
     "static/css/main.de702f7f.css",
-    "static/js/main.f5d88582.js"
+    "static/js/main.efa51d62.js"
   ]
 }
