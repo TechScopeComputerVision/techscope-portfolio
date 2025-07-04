@@ -1,9 +1,7 @@
-// App.js
 import React from 'react';
 import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
 import Truck from './Truck';
-import Bald from './Bald';
 
 function Home() {
   return (
@@ -72,9 +70,7 @@ function Home() {
           <li className="card">
             <h4>Hair Loss Detection</h4>
             <p>AI-powered classification of hair loss levels from face or head images for medical or cosmetic use.</p>
-            <Link to="/bald">
-              <button className="review-button">Leave a Review</button>
-            </Link>
+            {/* Removed link to /bald */}
           </li>
         </ul>
       </section>
@@ -82,8 +78,8 @@ function Home() {
       <section id="contact" className="section section-alt">
         <h3>Let's Build with Vision</h3>
         <p>Partner with TechScope to bring computer vision to your products and workflows.</p>
-        <p>Email: <a href="mailto:hello@techscope.io">hello@techscope.io</a></p>
-        <p>Website: <a href="https://www.techscope.io">www.techscope.io</a></p>
+        <p>Email: <a href="mailto:techscope2025il@gmail.com">techscope2025il@gmail.com</a></p>
+        <p>Website: <a href="https://techscopecomputervision.github.io/techscope-portfolio/">TechScope</a></p>
       </section>
 
       <footer className="footer">
@@ -99,7 +95,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/truck" element={<Truck />} />
-        <Route path="/bald" element={<Bald />} />
       </Routes>
     </Router>
   );
