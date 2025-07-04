@@ -52,7 +52,7 @@ function Home() {
             <h4>Smart Trash Collection</h4>
             <p>Vision system on garbage truck mirrors automatically detects and aligns with trash bins.</p>
             <Link to="/truck">
-              <button className="review-button">Leave a Review</button>
+              <button className="review-button">Review</button>
             </Link>
           </li>
           <li className="card">
@@ -64,7 +64,7 @@ function Home() {
               rel="noopener noreferrer"
               className="review-button"
             >
-              Leave a Review
+              Review
             </a>
           </li>
           <li className="card">
