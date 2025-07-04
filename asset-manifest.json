@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/techscope-portfolio/static/css/main.a81c9eca.css",
-    "main.js": "/techscope-portfolio/static/js/main.add97dce.js",
-    "static/js/453.20303708.chunk.js": "/techscope-portfolio/static/js/453.20303708.chunk.js",
-    "index.html": "/techscope-portfolio/index.html",
-    "main.a81c9eca.css.map": "/techscope-portfolio/static/css/main.a81c9eca.css.map",
-    "main.add97dce.js.map": "/techscope-portfolio/static/js/main.add97dce.js.map",
-    "453.20303708.chunk.js.map": "/techscope-portfolio/static/js/453.20303708.chunk.js.map"
+    "main.css": "/techvision-portfolio/static/css/main.a81c9eca.css",
+    "main.js": "/techvision-portfolio/static/js/main.d8e07d73.js",
+    "static/js/453.20303708.chunk.js": "/techvision-portfolio/static/js/453.20303708.chunk.js",
+    "index.html": "/techvision-portfolio/index.html",
+    "main.a81c9eca.css.map": "/techvision-portfolio/static/css/main.a81c9eca.css.map",
+    "main.d8e07d73.js.map": "/techvision-portfolio/static/js/main.d8e07d73.js.map",
+    "453.20303708.chunk.js.map": "/techvision-portfolio/static/js/453.20303708.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a81c9eca.css",
-    "static/js/main.add97dce.js"
+    "static/js/main.d8e07d73.js"
   ]
 }
