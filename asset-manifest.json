@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/techvision-portfolio/static/css/main.de702f7f.css",
-    "main.js": "/techvision-portfolio/static/js/main.ffcf0548.js",
-    "index.html": "/techvision-portfolio/index.html",
-    "main.de702f7f.css.map": "/techvision-portfolio/static/css/main.de702f7f.css.map",
-    "main.ffcf0548.js.map": "/techvision-portfolio/static/js/main.ffcf0548.js.map"
+    "main.css": "/techscope-portfolio/static/css/main.de702f7f.css",
+    "main.js": "/techscope-portfolio/static/js/main.ffcf0548.js",
+    "index.html": "/techscope-portfolio/index.html",
+    "main.de702f7f.css.map": "/techscope-portfolio/static/css/main.de702f7f.css.map",
+    "main.ffcf0548.js.map": "/techscope-portfolio/static/js/main.ffcf0548.js.map"
   },
   "entrypoints": [
     "static/css/main.de702f7f.css",
